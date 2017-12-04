@@ -7,6 +7,7 @@ end
 
 ruby '2.3.0'
 gem 'sorcery'
+gem 'oauth2'
 gem 'imagemagick-identify'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
